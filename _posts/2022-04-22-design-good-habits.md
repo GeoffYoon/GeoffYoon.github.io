@@ -6,7 +6,6 @@ categories: [ mindfulness, Geoff, habit]
 tags: [자기계발, 습관설계, 습관만드는법, 시작하는법]
 image: assets/images/everyone_stick_to_nothing.png
 description: "실패하지 않는 습관을 설계하는 방법"
-featured: true
 rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/6
 beforetoc: "심지어 그게 가능하다!"

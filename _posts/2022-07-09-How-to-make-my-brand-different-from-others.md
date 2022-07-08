@@ -4,7 +4,6 @@ title: 내 브랜드를 남들과 다르게 만드는 방법
 author: Geoff
 categories: [ startup, Geoff]
 tags: [창업, 브랜딩, 스타트업, 창업, 업의본질, 문제해결, 사용자]
-image: assets/images/branding_is_necessary.jpeg
 description: "내 브랜드를 남들과 다르게 만드는 방법"
 featured: true
 rating: 5

@@ -8,7 +8,7 @@ image: assets/images/branding_is_necessary.jpeg
 description: "내 브랜드를 남들과 다르게 만드는 방법"
 featured: true
 rating: 5
-beforetoc: "이 글은 전우성 브랜드 디렉터님의 저서 &lt;그래서 브랜딩이 필요합니다&gt;의 리뷰 중 이전에 쓴 포스트 다음의 내용을 다룬다."
+beforetoc: "이 글은 전우성 브랜드 디렉터님의 저서 <그래서 브랜딩이 필요합니다>의 리뷰 중 이전에 쓴 포스트 다음의 내용을 다룬다."
 toc: true
 ---
 

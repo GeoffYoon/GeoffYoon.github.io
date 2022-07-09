@@ -6,8 +6,8 @@ categories: [ startup, Geoff ]
 tags: [창업, 브랜딩, 스타트업, 창업, 업의본질, 문제해결, 사용자]
 image: assets/images/branding_is_necessary.jpeg
 description: "브랜드 정체성을 고민할 때 답변해야 하는 네 가지 질문"
-featured: true
 rating: 5
+featured: true
 beforetoc: "브랜드 정체성을 고민할 때 답변해야 하는 네 가지 질문"
 toc: true
 ---

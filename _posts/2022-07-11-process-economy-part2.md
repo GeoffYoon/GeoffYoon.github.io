@@ -8,7 +8,7 @@ description: "프로세스 이코노미 리뷰  part 1: 만드는 과정을 파�
 image: assets/images/nishino2.jpeg
 featured: true
 rating: 5
-beforetoc: "만드는 제품으로 돈을 버는 시대는 지났다. 그것을 만드는 과정을 팔야서 돈을 버는 시대가 온다."
+beforetoc: '프로세스의 함정에 빠지지 않으려면 프로세스에 가치관과 철학 즉 "왜"를 녹여내라'
 toc: true
 ---
 

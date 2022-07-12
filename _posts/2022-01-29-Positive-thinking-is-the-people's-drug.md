@@ -6,7 +6,6 @@ categories: [ thinking, Geoff, psychology]
 tags: [자기계발, 합러적낙관주의, 가짜긍정, 마인드]
 image: assets/images/half_cup_of_water.png
 description: "긍정은 무작정 좋게만 생각하는 것이 아니다. 가짜긍정을 멀리하고 합러적낙관주의를 가까이하자"
-rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/4
 beforetoc: "긍정은 무작정 좋게만 생각하는 것이 아니다."
 toc: true

@@ -7,7 +7,6 @@ tags: [창업, 브랜딩, 스타트업, 프로세스, 컨텐츠, 효과화 이�
 description: "프로세스 이코노미 리뷰  part 1: 만드는 과정을 파는 시대가 온다"
 image: assets/images/nishino2.jpeg
 featured: true
-rating: 5
 beforetoc: "만드는 제품으로 돈을 버는 시대는 지났다. 그것을 만드는 과정을 팔야서 돈을 버는 시대가 온다."
 toc: true
 ---

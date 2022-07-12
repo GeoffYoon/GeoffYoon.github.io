@@ -6,7 +6,6 @@ categories: [ startup, Geoff ]
 tags: [창업, 스타트업, 팀빌딩, 1인기업, 비즈니스]
 image: assets/images/teambuilding.jpeg
 description: "사업을 혼자하는 것의 장점과 단점 그리고 내가 팀원을 구해야 하는 이유"
-rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/9
 beforetoc: "사업을 혼자하는 것의 장점과 단점 그리고 내가 팀원을 구해야 하는 이유"
 toc: true

@@ -6,7 +6,6 @@ categories: [self development, Geoff, book review]
 tags: [책리뷰, 호리에몽, 호리에 다카후미, 투자, 효율성, 경험]
 image: assets/images/Spend_all_the_money_you_have.jpeg
 description: "돈을 모으는 대신 학습에 투자하고 경험에 투자하라"
-rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/8
 beforetoc: "호리에 다카후미의 \"가진 돈은 몽땅 써라\"를 읽은 후"
 toc: true

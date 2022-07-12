@@ -6,7 +6,6 @@ categories: [ startup, Geoff ]
 tags: [창업, 니즈, 스타트업, 창업아이템, 고객, 욕망, 문제해결]
 image: /assets/images/ai_meme_are_you_crazy_human.png
 description: "사람들의 문제를와 고객들이 원하는 것이 무엇인지를 발견하는 과정"
-rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/2
 beforetoc: "사람들의 문제를와 고객들이 원하는 것이 무엇인지를 발견하는 과정"
 toc: true

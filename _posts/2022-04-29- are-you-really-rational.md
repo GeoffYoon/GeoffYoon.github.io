@@ -6,7 +6,6 @@ categories: [ psychology, Geoff, human nature, book review]
 tags: [이성적, 감정적, 감정제어, 감정조절, 인간본성]
 image: assets/images/another_me.png
 description: "로버트그린이 말하는 감정적 자아를 조절하는 방법"
-rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/7
 beforetoc: "우리는 꽤 자주 감정에 몸을 잘 맡긴다."
 toc: true

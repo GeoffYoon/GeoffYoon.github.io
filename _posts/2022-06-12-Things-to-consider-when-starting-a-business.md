@@ -6,7 +6,6 @@ categories: [ startup, Geoff ]
 tags: [창업, 스타트업, 창업 시 고려할점, 1인기업, 비즈니스, 실행력, 우선순위, 경쟁우위]
 image: assets/images/own_vocation.jpeg
 description: "대구창조경제혁신센터에서 한 창업강의에 참여하고 나서 느낀 점"
-rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/11
 beforetoc: "대구창조경제혁신센터에서 한 창업강의에 참여하고 나서 느낀 점"
 toc: true

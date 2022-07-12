@@ -6,7 +6,6 @@ categories: [ startup, Geoff ]
 tags: [창업, 실패, 스타트업, 창업아이템]
 image: assets/images/Red_pill_and_blue_pill.png
 description: "창업 후 첫 실패를 마주했을 때 가져야 하는 마인드와 해야하는 것들"
-rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/1
 beforetoc: "창업 후 첫 실패를 마주했을 때 가져야 하는 마인드와 해야하는 것들"
 toc: true

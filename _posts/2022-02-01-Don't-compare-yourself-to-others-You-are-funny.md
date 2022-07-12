@@ -6,7 +6,6 @@ categories: [ mindfulness, Geoff, psychology]
 tags: [자기계발, 멘탈관리, 비교, 마음챙김]
 image: assets/images/Pepe_The_great_gatsby.jpeg
 description: "열듬감이 나를 집어삼킬 때, 남과의 비교를 이겨내는 방법"
-rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/5
 beforetoc: "열듬감이 나를 집어삼킬 때, 남과의 비교를 이겨내는 방법"
 toc: true

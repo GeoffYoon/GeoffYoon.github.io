@@ -6,7 +6,6 @@ categories: [thinking, Geoff, self development]
 tags: [자기계발, 노력, 새해, 꾸준함]
 image: assets/images/11.jpg
 description: "사람들은 새해가 되었다고 없던 복이 생기길 바라지만 매일을 새해같이 살면서 복을 만들어가자"
-rating: 5
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/3
 beforetoc: "사람들은 새해가 되었다고 없던 복이 생기길 바라지만 매일을 새해같이 살면서 복을 만들어가자"
 toc: true

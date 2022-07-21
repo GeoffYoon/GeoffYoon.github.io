@@ -18,7 +18,6 @@ tags:
 - 니시노아키히로
 description: '혁명의 팡파르 리뷰  part 1: 당신의 신용은 돈이 될 수 있습니까?'
 image: assets/images/fanfare_of_revolution.png
-featured: true
 beforetoc: 돈은 신용을 수치화한 것이다. 따라서 돈을 벌고 싶으면 신용을 쌓아야 한다.
 toc: true
 ---

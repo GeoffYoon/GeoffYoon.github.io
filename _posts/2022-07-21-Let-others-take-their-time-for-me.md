@@ -5,7 +5,7 @@ author: Geoff
 categories: [ startup, Geoff]
 tags: [창업, 브랜딩, 마케팅, 바이럴]
 description: "입소문을 잘 퍼트리도록 디자인하는 방법"
-image: assets/images/poupelle2.jpegss
+image: assets/images/poupelle2.jpegs
 featured: true
 beforetoc: '입소문을 잘 퍼트리도록 디자인하는 방법'
 toc: true

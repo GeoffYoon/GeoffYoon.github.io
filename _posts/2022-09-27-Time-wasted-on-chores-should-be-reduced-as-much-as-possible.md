@@ -1,5 +1,5 @@
 ---
-title: [매일(쓰는) 제프의 비즈니스 메거진] 쓸데없는 잡일에 낭비하는 시간을 줄이자 
+title: "[매일(쓰는) 제프의 비즈니스 메거진] 쓸데없는 잡일에 낭비하는 시간을 줄이자" 
 layout: post
 author: Geoff
 categories:

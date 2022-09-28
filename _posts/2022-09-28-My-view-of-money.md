@@ -9,7 +9,7 @@ tags:
 - 비즈니스 메거진
 - 시간관리
 description: 나는 과연 어떤 돈을 벌어야 하는가?
-image: assets/images/clock-g204165bc2_640.jpeg
+image: assets/images/tap-g21ffe4e55_1280.png
 featured: true
 beforetoc: 나는 과연 어떤 돈을 벌어야 하는가?
 toc: true

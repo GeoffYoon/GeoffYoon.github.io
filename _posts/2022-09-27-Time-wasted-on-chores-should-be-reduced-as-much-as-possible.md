@@ -9,7 +9,7 @@ tags:
 - 비즈니스 메거진
 - 시간관리
 description: 쓸데없는 잡일에 시간을 홀라당 뺏겨버린 날
-image: assets/images/clock-g204165bc2_640.jpeg
+image: assets/images/man-g3b4b5c024_1920.jpg
 featured: true
 beforetoc: 쓸데없는 잡일에 시간을 홀라당 뺏겨버린 날 쓰게된 이야기
 toc: true

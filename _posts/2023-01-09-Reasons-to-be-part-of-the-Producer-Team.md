@@ -111,7 +111,7 @@ toc: true
 
 그리고 속으로 외쳤습니다. 
 
-<span style="color:green">*"이 사람들은 재꼈구나"</span>
+<span style="color:green">*"이 사람들은 재꼈구나"*</span>
 
 저는 자기 확신이 없어 다른 사람들의 말에 잘 휘둘리는 사람이었습니다. 
 

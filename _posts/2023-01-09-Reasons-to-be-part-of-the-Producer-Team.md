@@ -17,8 +17,6 @@ toc: true
 ---
 
 ## 들어가며
-<span style="color:red"> **팔리는 글** </span>이라는게 뭘까요? 
-
 신사임당
 
 자청

@@ -12,7 +12,7 @@ tags:
 - 마음챙김
 description: 방황과 선택과 두려움, 그리고 믿음에 대한 이야기
 image: assets/images/believe-me.png
-featured: true
+featured: false
 beforetoc: 방황과 선택과 두려움, 그리고 믿음에 대한 이야기
 toc: true
 ---

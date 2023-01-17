@@ -6,7 +6,7 @@ categories: [ startup, Geoff ]
 tags: [창업, 스타트업, 사업속도, 1인기업, 비즈니스, 실행력]
 image: assets/images/your_speed_is_too_slow.jpeg
 description: "내 사업 실행 속도가 느릴 수 밖에 없는 이유"
-featured: true
+featured: false
 canonical_url: https://brunch.co.kr/@8f2933e65e20419/10
 beforetoc: "내 사업 실행 속도가 느릴 수 밖에 없는 이유"
 toc: true

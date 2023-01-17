@@ -10,7 +10,7 @@ tags:
 - 생산자팀
 - 소비자팀
 description: 소비자 팀과 생산자 팀
-image: assets/images/keyboard-gf19db87a1_1920.jpg
+image: assets/images/man-g3b4b5c024_1920.jpg
 featured: true
 beforetoc: 생산자 팀의 인사이트를 소비자 팀은 두루뭉술한 당연한 이야기라고 생각한다. 
 toc: true

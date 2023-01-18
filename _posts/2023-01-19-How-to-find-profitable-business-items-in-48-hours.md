@@ -57,27 +57,7 @@ toc: true
 
 저의 관심사 중에 일부를 보여드리면
 
-<p>
-<table>
-    <thead>
-        <th>관심사</th>
-        <th>이유</th>
-    </thead>
-    <tbody>
-        <tr>
-            <th style="font-weight: normal; background: none;">프로그래밍</th>
-            <td>창업을 하기 가장 유리한 전공을 생각하다가 컴퓨터공학을 전공하게 되었는데 공부를 하다보니 계속 흥미가 생겼다.</td>
-        <tr>
-            <th style="font-weight: normal; background: none;">노코드</th>
-            <td>MVP개발을 하면서 더 시간을 줄일 수 있다. 더 빨리 시장의 반응을 파악할 수 있게 한다.</td>
-        </tr>
-        <tr>
-            <th style="font-weight: normal; background: none;">브랜딩</th>
-            <td>비즈니스를 공부하면서 여러 브랜딩 사례를 보면서 흥미가 가기 시작했다. </td>
-        </tr>
-    </tbody>
-</table>
-</p>
+
 
 
 이런식으로 표로 직었습니다.

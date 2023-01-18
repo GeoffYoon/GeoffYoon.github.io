@@ -936,6 +936,7 @@ table thead th {
     font-weight: bold;
     vertical-align: center;
     color: #1b3453;
+    border: 1px solid #666;
 }
 table tbody th {
     padding: 10px 15px;

@@ -57,6 +57,8 @@ toc: true
 
 저의 관심사 중에 일부를 보여드리면
 
+
+
 <table>
     <thead>
         <th>관심사</th>
@@ -72,6 +74,8 @@ toc: true
         </tr>
     </tbody>
 </table>
+
+
 
 이런식으로 표로 직었습니다.
 

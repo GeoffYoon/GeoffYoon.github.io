@@ -57,8 +57,8 @@ toc: true
 
 저의 관심사 중에 일부를 보여드리면
 
-<div>
-    <table>
+<p>
+<table>
     <thead>
         <th>관심사</th>
         <th>이유</th>
@@ -77,7 +77,7 @@ toc: true
         </tr>
     </tbody>
 </table>
-</div>
+</p>
 
 
 이런식으로 표로 직었습니다.
@@ -98,8 +98,9 @@ toc: true
 그만큼 해결에 돈을 많이 내게 될 테니까요
 
 저는 이런 식으로 했습니다.
-<div>
-    <table>
+
+<p>
+<table>
     <thead>
         <th>관심사</th>
         <th>문제</th>
@@ -107,14 +108,26 @@ toc: true
     <tbody>
         <tr>
             <th style="font-weight: normal; background: none;">노코드</th>
-            <td><ul><li> 노코드 툴이 너무 많아서 사람들이 뭘 써야할지 모름</li> <li>노코드 툴도 정밀해지다보니 사용법이 어려운 것들도 있음</li> <li>노코드 툴을 어떤식으로 비즈니스에 적용해야 할지 잘 모름</li></ul></td>
+            <td>
+                <ul>
+                    <li> 노코드 툴이 너무 많아서 사람들이 뭘 써야할지 모름</li> 
+                    <li>노코드 툴도 정밀해지다보니 사용법이 어려운 것들도 있음</li> 
+                    <li>노코드 툴을 어떤식으로 비즈니스에 적용해야 할지 잘 모름</li>
+                </ul>
+            </td>
         <tr>
             <th style="font-weight: normal; background: none;">무알콜맥주</th>
-            <td><ul><li> 대체적으로 맛이 형편없음</li> <li>편의점이나 이런데는 한 두 종류 밖에 안팜</li> <li>여러종류 경험하려면 해외직구해야함</li></ul></td>
+            <td>
+                <ul>
+                    <li> 대체적으로 맛이 형편없음</li>
+                    <li>편의점이나 이런데는 한 두 종류 밖에 안팜</li> 
+                    <li>여러종류 경험하려면 해외직구해야함</li>
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
-</div>
+</p>
 
 문제들이 특별하지 않아도 됩니다. 
 
@@ -137,20 +150,33 @@ toc: true
 
 저는 이런식으로 했습니다. 
 
-<div>
+<p>
     <table>
     <tbody>
         <tr>
             <th rowspan="2">노코드</th>
             <th style="font-weight: normal; background: none;">문제점</th>
-            <td><ul><li> 노코드 툴이 너무 많아서 사람들이 뭘 써야할지 모름</li> <li>노코드 툴도 정밀해지다보니 사용법이 어려운 것들도 있음</li> <li>노코드 툴을 어떤식으로 비즈니스에 적용해야 할지 잘 모름</li></ul></td>
+            <td>
+                <ul>
+                    <li> 노코드 툴이 너무 많아서 사람들이 뭘 써야할지 모름</li> 
+                    <li>노코드 툴도 정밀해지다보니 사용법이 어려운 것들도 있음</li> 
+                    <li>노코드 툴을 어떤식으로 비즈니스에 적용해야 할지 잘 모름</li>
+                </ul>
+            </td>
         <tr>
             <th style="font-weight: normal; background: none;">해결</th>
-            <td><ul><li> 노코드 툴을 정리해서 알려주는 사이트를 만든다.</li> <li>노코드 툴 사용법 강의를 만들어서 판매한다.</li> <li>노코드 따라 만들기 예제 모음을 판매한다.</li></ul></td>
+            <td>
+                <ul>
+                    <li> 노코드 툴을 정리해서 알려주는 사이트를 만든다.</li> 
+                    <li>노코드 툴 사용법 강의를 만들어서 판매한다.</li> 
+                    <li>노코드 따라 만들기 예제 모음을 판매한다.</li>
+            </ul>
+            </td>
         </tr>
     </tbody>
 </table>
-</div>
+</p>
+
 
 이런식으로 문제와 해결을 짝지어두면 더욱 비즈니스의 본질을 이해하기에 수월합니다.
 

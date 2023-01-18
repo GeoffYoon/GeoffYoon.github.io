@@ -58,8 +58,8 @@ toc: true
 저의 관심사 중에 일부를 보여드리면
 
 
-
-<table>
+<div>
+    <table>
     <thead>
         <th>관심사</th>
         <th>이유</th>
@@ -78,6 +78,8 @@ toc: true
         </tr>
     </tbody>
 </table>
+</div>
+
 
 이런식으로 표로 직었습니다.
 
@@ -98,8 +100,8 @@ toc: true
 
 저는 이런 식으로 했습니다.
 
-
-<table>
+<div>
+    <table>
     <thead>
         <th>관심사</th>
         <th>문제</th>
@@ -114,6 +116,7 @@ toc: true
         </tr>
     </tbody>
 </table>
+</div>
 
 
 ## 해결
@@ -133,7 +136,8 @@ toc: true
 
 저는 이런식으로 했습니다. 
 
-<table>
+<div>
+    <table>
     <tbody>
         <tr>
             <th rowspan="2">노코드</th>
@@ -145,6 +149,9 @@ toc: true
         </tr>
     </tbody>
 </table>
+</div>
+
+
 
 
 

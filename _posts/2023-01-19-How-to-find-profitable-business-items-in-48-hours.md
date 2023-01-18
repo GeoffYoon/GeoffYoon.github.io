@@ -10,7 +10,7 @@ tags:
 - 48시간 탐색
 - 프레이저 도허티
 description: 관심사를 바탕으로 48시간만에 수익을 낼 수 있는 사업아이템을 찾는 방법
-image: https://cdn.pixabay.com/photo/2017/03/10/21/54/clock-2133825_1280.jpg
+image: https://cdn.pixabay.com/photo/2018/03/17/10/51/post-it-notes-3233653_1280.jpg
 featured: true
 beforetoc: 관심사를 바탕으로 48시간만에 수익을 낼 수 있는 사업아이템을 찾는 방법
 toc: true

@@ -941,11 +941,11 @@ table tbody th {
     padding: 10px 15px;
     font-weight: bold;
     vertical-align: top;
-    border-bottom: 1px solid #ccc;
+    border: 1px solid #666;
     background: #f3f6f7;
 }
 table td {
     padding: 10px 15px;
     vertical-align: top;
-    border-bottom: 1px solid #ccc;
+    border: 1px solid #666;
 }

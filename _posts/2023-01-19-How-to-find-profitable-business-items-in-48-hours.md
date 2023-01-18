@@ -66,16 +66,18 @@ toc: true
     </thead>
     <tbody>
         <tr>
-            <th style="font-weight: normal;">프로그래밍</th>
+            <th style="font-weight: normal; background: none;">프로그래밍</th>
             <td>창업을 하기 가장 유리한 전공을 생각하다가 컴퓨터공학을 전공하게 되었는데 공부를 하다보니 계속 흥미가 생겼다.</td>
         <tr>
-            <th style="font-weight: normal;">노코드</th>
-            <td>창업을 하기 가장 유리한 전공을 생각하다가 컴퓨터공학을 전공하게 되었는데 공부를 하다보니 계속 흥미가 생겼다.</td>
+            <th style="font-weight: normal; background: none;">노코드</th>
+            <td>MVP개발을 하면서 더 시간을 줄일 수 있다. 더 빨리 시장의 반응을 파악할 수 있게 한다.</td>
+        </tr>
+        <tr>
+            <th style="font-weight: normal; background: none;">브랜딩</th>
+            <td>비즈니스를 공부하면서 여러 브랜딩 사례를 보면서 흥미가 가기 시작했다. </td>
         </tr>
     </tbody>
 </table>
-
-
 
 이런식으로 표로 직었습니다.
 
@@ -104,10 +106,10 @@ toc: true
     </thead>
     <tbody>
         <tr>
-            <th style="font-weight: normal;">노코드</th>
+            <th style="font-weight: normal; background: none;">노코드</th>
             <td><ul><li> 노코드 툴이 너무 많아서 사람들이 뭘 써야할지 모름</li> <li>노코드 툴도 정밀해지다보니 사용법이 어려운 것들도 있음</li> <li>노코드 툴을 어떤식으로 비즈니스에 적용해야 할지 잘 모름</li></ul></td>
         <tr>
-            <th style="font-weight: normal;">무알콜맥주</th>
+            <th style="font-weight: normal; background: none;">무알콜맥주</th>
             <td><ul><li> 대체적으로 맛이 형편없음</li> <li>편의점이나 이런데는 한 두 종류 밖에 안팜</li> <li>여러종류 경험하려면 해외직구해야함</li></ul></td>
         </tr>
     </tbody>
@@ -135,10 +137,10 @@ toc: true
     <tbody>
         <tr>
             <th rowspan="2">노코드</th>
-            <th style="font-weight: normal;">문제점</th>
+            <th style="font-weight: normal; background: none;">문제점</th>
             <td><ul><li> 노코드 툴이 너무 많아서 사람들이 뭘 써야할지 모름</li> <li>노코드 툴도 정밀해지다보니 사용법이 어려운 것들도 있음</li> <li>노코드 툴을 어떤식으로 비즈니스에 적용해야 할지 잘 모름</li></ul></td>
         <tr>
-            <th style="font-weight: normal;">해결</th>
+            <th style="font-weight: normal; background: none;">해결</th>
             <td><ul><li> 노코드 툴을 정리해서 알려주는 사이트를 만든다.</li> <li>노코드 툴 사용법 강의를 만들어서 판매한다.</li> <li>노코드 따라 만들기 예제 모음을 판매한다.</li></ul></td>
         </tr>
     </tbody>

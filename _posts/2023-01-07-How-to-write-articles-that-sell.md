@@ -11,7 +11,7 @@ tags:
 - 글쓰기
 description: 팔리는 글쓰기를 하려면 어떻게 해야 할까
 image: assets/images/keyboard-gf19db87a1_1920.jpg
-featured: true
+featured: false
 beforetoc: 내가 쓴 글이 잘 팔리는 글이 되려면 어떻게 해야 하는지를 알아보자
 toc: true
 ---
